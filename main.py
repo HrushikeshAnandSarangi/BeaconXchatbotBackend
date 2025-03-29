@@ -100,7 +100,6 @@ class DisasterManagementChatbot:
             full_prompt = f"""
             You are an advanced Disaster Management Assistant called BeaconX.
             Your task is to provide expert guidance on disaster management and emergency response.
-            Remember to always keep the responses short and concise.
             Provide expert, life-saving guidance for the following query:
             
             Query: {user_query.query}
